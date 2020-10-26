@@ -2,7 +2,6 @@
    <html lang="et">
        <head>
            <meta charset="utf-8">
-           <title>"Harjutus"</title>
        </head>
 <h1><b>Raamatupood</b></h1>
 <h3><b>Hetkel poes</b></h3>
