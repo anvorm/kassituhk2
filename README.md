@@ -30,7 +30,7 @@
 <p>„Kassituhk“ on seikluslik lugu kirjandusõpetajast Antist, kes avastab, et kõik kohustused, mis olid seni harjumuspärast elurutiini kujundanud, on äkitselt ära langenud. Enne uusi väljakutseid seisab siiski ees lõplik hüvastijätt kalli sõbraga. Loodetav lohutust pakkuv ringsõit mööda Eestit kujuneb aga hoopiski suuremat sorti kaoseks, kuhu on segatud kummalisi tegelasi, kes satuvad inimese eluteele just siis, kui ta tunneb end elulainetesse uppuvat.</p>
 
 <body>
-<img src="kassituhk2.jpg" alt="Hakake lugema!" width="300" height="400">
+<img src="kassituhk2.jpg" alt="Hakake lugema!" width="260" height="400">
 </body>
 <body>
 <a href="https://www.taltech.ee">Tallinna Tehnikaülikool</a>
