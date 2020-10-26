@@ -31,7 +31,7 @@
 
        </body>
 <body>
-<img src="kassituhk2.jpg" alt="Hakake lugema!" width="480" height="400">
+<img src="kassituhk2.jpg" alt="Hakake lugema!" width="300" height="400">
 </body>
 <body>
 <a href="https://www.taltech.ee">Tallinna Tehnikaülikool</a>
